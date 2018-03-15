@@ -29,7 +29,7 @@
         <br />
         <div class="row">
             <div class="col-sm-1">
-                <label> Course: </label>
+                <label> Title: </label>
             </div>
             <div class="col-sm-1">
                 <input type="text" name="Course">
